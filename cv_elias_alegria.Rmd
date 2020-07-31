@@ -1,0 +1,151 @@
+---
+title: "Currículum Vitae Elías Alegría"
+author: Elías Alegría
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Información de Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> elias.alegria@ug.uchile.cl
+- <i class="fa fa-github"></i> [github.com/huasin](https://github.com/huasin)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/eliasalegria](https://linkedin.com/in/eliasalegria)
+- <i class="fa fa-phone"></i> +56 9 4435 6673
+<!-- - For more information, please contact me via email. -->
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experiencia en manipulación, análisis y modelamiento de datos con algoritmos de machine learning, deep learning y optimización.
+
+- Alto dominio de R, Python, SQL, Excel (VBA).
+
+- Experiencia trabajando en AWS con servicios EC2, S3 y Athena.
+
+- Organizado, responsable, proactivo, buen trato, metódico.
+
+- Idiomas español (lengua madre) e inglés (nivel intermedio).
+
+
+Intereses
+--------------------------------------------------------------------------------
+
+Acordeón, folclore, cocina, fotografía, visualización de datos.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!-- CV realizado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown). -->
+
+Última actualización `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Elías Alegría {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Ingeniero civil industrial con experiencia en los rubros de seguros, servicio público, retail y telecomunicaciones. Me identifico por tener capacidadanalítica para la identificación y resolución de problemas. Mis mayores intereses y aptitudes están ligadas al tratamiento y modelamiento de datos con técnicas estadísticas, modelos de optimización y machine learning.
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad de Chile
+
+Ingeniería Civil Industrial
+
+Santiago, Chle
+
+2019
+
+<!-- Distinción máxima -->
+
+
+Experiencia Laboral {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Entel
+
+Santiago, Chile
+
+Jul 2019 - Actualidad
+
+- Desarrollo y ejecucion de modelos de riesgo de credito para el financiamiento de equipos. 
+- Desarrollo de moledos de deep learning para el mantenimiento predictivo de antenas.
+- Proyección del consumo eléctrico de la red.
+
+### Memorista
+
+Falabella Retail
+
+Santiago, Chile
+
+Nov 2018 - May 2019
+
+- Creación de modelo de programación entera mixta para encontrar la configuración óptima de turnos y jornadas de los trabajadores de los puntos de retiro en tienda.
+
+### Analista de Estudios (Practicante)
+
+Servicio de Cooperación Técnica
+
+Santiago, Chile
+
+Ago 2018 - Sep 2018
+
+- Análisis de resultados del programa Centro de Desarrollo de Negocios.
+- Investigación de la factibilidad de aplicación de métodos cuasi experimentales de evaluación de impacto.
+
+### Consultor automatización de reportes
+
+Freelance
+
+Santiago, Chile
+
+Abr 2018 - Jul 2018
+
+- Automatización de reportes para Falabella Retail. Áreas de negocios, omnicanalidad y desarrollo corporativo de la gerencia de operaciones.
+- Creación de un gestor de inventario para empresa productora de packs termocontraíbles.
+
+### Practicante, área de operaciones
+
+Falabella Retail
+
+Santiago, Chile
+
+Dic 2017 - Feb 2018
+
+- Automatización y estandarización en el proceso de cambios de precios.
+- Creación de simulador de horas persona contratadas con Excel y VBA.
+
+### Profesor de matemática y física
+
+PREUNAR
+
+Peñaflor, Chile
+
+Mar 2016 - Dic 2016
+
+- Además encargado de elaborar material docente de física.
+
